@@ -2,3 +2,11 @@
     border: auto;
     padding: auto;
 }
+.Notifications ul li[data-priority="default"] {
+    color: blue;
+  }
+  
+  .Notifications ul li[data-priority="urgent"] {
+    color: red;
+  }
+  
